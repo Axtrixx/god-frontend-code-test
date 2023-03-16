@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Torbjörn",
+      "profession": "Designer",
+      "imageUrl": "/images/Designer.svg"
+    },
+    {
+      "id": 2,
+      "name": "Viktor",
+      "profession": "Carpenter",
+      "imageUrl": "/images/Carpenter.svg"
+    },
+    {
+      "id": 3,
+      "name": "Erik",
+      "profession": "Carpenter",
+      "imageUrl": "/images/Carpenter2.svg"
+    },
+    {
+      "id": 4,
+      "name": "Kalle",
+      "profession": "Masoner",
+      "imageUrl": "/images/Masoner.svg"
+    },
+    {
+      "id": 5,
+      "name": "Jerry",
+      "profession": "Plummer",
+      "imageUrl": "/images/Plummer.svg"
+    }
+]

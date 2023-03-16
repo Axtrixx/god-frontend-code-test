@@ -1,5 +1,10 @@
 import React from "react";
 
-export const HelloWorld: React.FC = () => {
-  return <h1>Hello World!</h1>;
+
+export const HelloWorld = () => {
+
+    return (
+      <div>Hello World</div>
+    );
+
 };
