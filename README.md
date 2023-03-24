@@ -9,6 +9,8 @@ Co-pilot är ej tillåtet.
 
 Byggare Bob jobbar på sin nya hemsida och vill kunna visa upp all sin otroliga personal för sina kunder.
 
+Exempl på hur det kan se ut.
+
 ![image (10)](https://user-images.githubusercontent.com/8349939/227497747-3fa1c49e-cbac-4c1f-bf3d-e85845f97c57.png)
 
 
