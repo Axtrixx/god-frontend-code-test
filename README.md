@@ -9,6 +9,9 @@ Co-pilot är ej tillåtet.
 
 Byggare Bob jobbar på sin nya hemsida och vill kunna visa upp all sin otroliga personal för sina kunder.
 
+![image (10)](https://user-images.githubusercontent.com/8349939/227497747-3fa1c49e-cbac-4c1f-bf3d-e85845f97c57.png)
+
+
 Målet är att kunna presentera företagets personal i en lista. Listan ska innehåll namn, yrke och personens bild.
 Vi behöver i våran POC inte designa allt utan det viktigaste är att visa för Byggarebob att react är rätt verktyg.
 
