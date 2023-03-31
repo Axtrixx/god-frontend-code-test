@@ -15,6 +15,7 @@ för att lösa detta problem.
 
 Informationen som behövs för att hämta personalen finns en json fil (employees.json) som ska representera utdata ifrån 
 ett api, detta bör hämtas via ett "get" anrop till http://localhost:3000/api/employees.json.
+Utdatan ser ut som exemplet nedan:
 ```json
 [
   {
