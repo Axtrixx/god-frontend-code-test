@@ -42,6 +42,6 @@ npm run dev
 
 
 ### Resurser:
-https://react.dev/learn <br>
-https://mui.com/ <br>
-https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+  - https://react.dev/learn
+  - https://mui.com/
+  - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
